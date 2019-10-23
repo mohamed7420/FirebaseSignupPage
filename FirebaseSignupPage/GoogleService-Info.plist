@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>829307280376-m1onfeavoa2n03lktio5tpj42tl5n7te.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.829307280376-m1onfeavoa2n03lktio5tpj42tl5n7te</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAORlNeF6rKaGRGh3W0RIlcq1Hfl8uLFv4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>829307280376</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Mohamed-osama.FirebaseSignupPage</string>
+	<key>PROJECT_ID</key>
+	<string>fir-signuppage-fb744</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-signuppage-fb744.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:829307280376:ios:e6c4825aad58375e09540d</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-signuppage-fb744.firebaseio.com</string>
+</dict>
+</plist>
